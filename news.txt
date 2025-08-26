@@ -1,2 +1,2 @@
-News here 
-Amazing News!
+🛠️ New Feature: Added autocomplete and live hash scanning!
+🔐 Queries: Added basic KQL querires
